@@ -1,0 +1,23 @@
+{
+	"ingredient": "beef",
+	"difficulty": [{
+			"level": "easy",
+			"lower_bound": "0",
+			"upper_bound": "30",
+		    "endpoints_included": false
+		},
+		{
+			"level": "medium",
+			"lower_bound": "30",
+			"upper_bound": "60",
+			"endpoints_included": true
+		},
+		{
+			"level": "hard",
+			"lower_bound": "60",
+			"upper_bound": "",
+			"endpoints_included": false
+		}
+
+	]
+}
